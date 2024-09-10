@@ -3112,6 +3112,18 @@ input, select, textarea {
 			border: 2px solid darkblue;
 		}
 
+		#ql{
+			width: 200px;
+			height: 200px;
+			border: 2px solid purple;
+		}
+
+		#pantry{
+			width: 200px;
+			height: 200px;
+			border: 2px solid brown;
+		}
+
 		#swe,#emb,#prod{
 			width:320px;
 			height:160px;
